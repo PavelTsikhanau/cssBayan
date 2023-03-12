@@ -1,0 +1,23 @@
+header {
+    width: 80%;
+    display: flex;
+    margin-left: 10%;
+}
+
+hr {
+    width: 80%;
+}
+
+.accordion {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+}
+
+.click {
+
+}
+
+/* test */
+
